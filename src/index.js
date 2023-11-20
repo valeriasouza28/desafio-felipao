@@ -48,5 +48,5 @@ function createHero(name, xp) {
     }
 }
 
-const firstHero = createHero("bcbcggvalbvggdgd", 9000);
+const firstHero = createHero("valeriasouza28", 9000);
 console.log(firstHero);

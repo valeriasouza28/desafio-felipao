@@ -17,6 +17,6 @@ O código fornecido define um módulo em JavaScript que gerencia a criação e v
    - Se a validação for bem-sucedida, constrói uma string descritiva indicando o nome e o nível do herói.
    - Trata quaisquer erros lançados durante o processo de validação e os registra no console.
 
-O código conclui com um exemplo de criação de um herói chamado "bcbcggvalbvggdgd" com um XP de 9000, exibindo as informações resultantes do herói no console.
+O código conclui com um exemplo de criação de um herói chamado "valeriasouza28" com um XP de 9000, exibindo as informações resultantes do herói no console.
 
 Como um todo, este módulo promove consistência e integridade na definição dos atributos do herói, fornecendo mensagens de erro informativas para auxiliar os desenvolvedores a garantir dados de herói válidos.
